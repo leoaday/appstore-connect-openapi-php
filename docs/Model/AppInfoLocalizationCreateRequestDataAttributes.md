@@ -1,0 +1,15 @@
+# # AppInfoLocalizationCreateRequestDataAttributes
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**locale** | **string** |  | 
+**name** | **string** |  | [optional] 
+**subtitle** | **string** |  | [optional] 
+**privacy_policy_url** | **string** |  | [optional] 
+**privacy_policy_text** | **string** |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
+
